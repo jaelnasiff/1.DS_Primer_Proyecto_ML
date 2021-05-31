@@ -1,2 +1,2 @@
 # SPRINT_1_DS
-Primer proyecto de prediccion de precios 
+Vamos a realizar una primera aproximacion a los modelos ML vistos en los trabajos #1 anteriores, usando las herramientas alczandas en el EDA.
